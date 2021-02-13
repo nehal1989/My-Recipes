@@ -1,15 +1,20 @@
-Name: Sourdough Bread
+Name: Sourdough Bread (No knead)
 
 Ingredients:
-400g flour (100%)
-230g water(57.5%)
-5g salt (1.25%)
-160g 100% hydration sourdough starter (40%)
+Total flour is 500g. Total hydration is ((310 + 50)/500) = 72%. 
+
+
+450 g very strong white flour (90%) --> This needs to be very strong for good sourdough
+310 water(62%)
+8g salt (1.6%)
+100g 100% hydration sourdough starter (10%)
 
 Method:
-1) Mix and knead flour. Don't add too much flour. Once dough has window pain effect without tearing it is ready.
-2) Proof dough for 3 hours.
-3) Knockback dough, form into a ball.
-4) Place inside bowl upside down, dust with flour. Cover with tea towel. Let it proof for another 3.5 hours.
-5) Remove, dust and score as needed.
-6) Place into oven at 230 degrees Celcius. If not using pot for dough, place hot water in bottom of oven for steam. Cook for 30-35 minutes. Or 25 min with lid on + 25 min lid off if using pyrex/cast iron.
+1) Mix all ingredients properly. 
+2) Proof until increased in size by 25%-50% in size. Use homemade prooving box set to 22 degrees celcius.
+3) Gently pre-shape dough. Leave for 20 minutes or so. 
+4) Do final shape of dough, place in banneton over night in fridge. Ensure to use enough flour to stop the dough sticking.
+5) Pre heat oven to gas mark 8 with a baking stone and roasting tray at bottom.
+6) Remove, dust and score as needed. Place dough in oven with boiling water in roasting tray to create steam. Cook for 15 minutes.
+	TIP: Spray top of dough with water to help crust form evenly as our oven is uneven temperature.
+7) Reduce heat to gas mark 5 and cook for a further 20-25 minutes. 
